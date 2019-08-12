@@ -1,0 +1,6 @@
+
+discord.js
+
+discord_ds
+
+asyncio
